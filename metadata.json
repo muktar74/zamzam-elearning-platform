@@ -1,0 +1,5 @@
+{
+  "name": "Zamzam Bank E-Learning Platform Final",
+  "description": "An internal e-learning website for Zamzam Bank, designed to deliver short, targeted training on different issues regarding Islamic Finance Banking (IFB). The platform allows employees to take courses, complete quizzes, and generate certificates, while administrators can manage all course content and user progress.",
+  "requestFramePermissions": []
+}
